@@ -1,0 +1,74 @@
+[
+  {
+    "level": "interval",
+    "name": "CLAGE",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "interval",
+    "name": "CLNO",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "interval",
+    "name": "DEBTINC",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "nominal",
+    "name": "DELINQ",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "nominal",
+    "name": "DEROG",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "nominal",
+    "name": "JOB",
+    "length": 14,
+    "type": "string"
+  },
+  {
+    "level": "interval",
+    "name": "LOAN",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "interval",
+    "name": "MORTDUE",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "nominal",
+    "name": "NINQ",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "binary",
+    "name": "REASON",
+    "length": 14,
+    "type": "string"
+  },
+  {
+    "level": "interval",
+    "name": "VALUE",
+    "length": 8,
+    "type": "decimal"
+  },
+  {
+    "level": "interval",
+    "name": "YOJ",
+    "length": 8,
+    "type": "decimal"
+  }
+]
