@@ -43,7 +43,7 @@ class DataFrameImputer(TransformerMixin):
 # In[6]:
 
 
-df = pd.read_csv("/home/sasdemo01/PythonModel/hmeq_score.csv",na_values=['NULL'])
+df = pd.read_csv("./PythonModel/DTREE/hmeq_score.csv",na_values=['NULL'])
 targetvar = ['BAD']
 inputvars = ['LOAN', 'MORTDUE', 'VALUE', 'YOJ', 'DEROG', 'DELINQ', 'CLAGE', 'NINQ', 'CLNO', 'DEBTINC']
 Y = df[targetvar]
